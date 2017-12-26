@@ -1,0 +1,22 @@
+site_name: "Spark Protocol"
+site_description: "Whitepaper for Spark Protocol"
+site_author: "Hwi Yong Song"
+
+pages:
+  - Home: index.md
+  - Introducing Decentralized Personal Data Ownership: introduction.md
+
+theme:
+  name: "material"
+  language: "en"
+  palette:
+    primary: "deep purple"
+    accent: "deep purple"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  logo:
+    icon: "layers"
+    
+docs_dir: "pages"
+site_dir: "docs"
