@@ -10,7 +10,7 @@ Along with their personal data, users also give up their privacy as their data i
 
 We envision a new open, transparent technology ecosystem whose goals are aligned with that of the users. We want to help build a movement for consumers to take back control of their digital lives by owning their own data and simply licensing it to attention merchants and developers. The people must demand this change and perhaps incumbent companies may follow suit and help revert the collateral damage that has taken place due to the advent of these attention merchants.
 
-## Decentralized personal data ownership
+## Decentralized personal data ownership 
 
 The recent adoption of smart contracts in blockchain has allowed for something not possible before: a decentralized and verifiable accounting of digital asset ownership.
 
